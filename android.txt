@@ -1,0 +1,3 @@
+title=Reaper Playback
+author=Levitanus
+orientation=portrait

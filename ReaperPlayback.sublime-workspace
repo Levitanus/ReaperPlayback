@@ -1,0 +1,1140 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pause_b",
+				"pause_btn\tstatement"
+			],
+			[
+				"play",
+				"play_btn\tstatement"
+			],
+			[
+				"tra",
+				"transport_grid\tstatement"
+			],
+			[
+				"co",
+				"connect\tclass"
+			],
+			[
+				"Text",
+				"TextInput\tclass"
+			],
+			[
+				"ins",
+				"inside_reaper\tclass"
+			],
+			[
+				"items",
+				"items_list"
+			],
+			[
+				"upd",
+				"upd_btn\tstatement"
+			],
+			[
+				"update",
+				"update_list\tfunction"
+			],
+			[
+				"size",
+				"size_hint_y"
+			],
+			[
+				"item",
+				"itemlist\tstatement"
+			],
+			[
+				"ite",
+				"itemlist\tstatement"
+			],
+			[
+				"get",
+				"get_items_list\tfunction"
+			],
+			[
+				"id",
+				"index\tfunction"
+			],
+			[
+				"track",
+				"track_nr\tparam"
+			],
+			[
+				"distu",
+				"distutils\tmodule"
+			],
+			[
+				"dis",
+				"distutils\tmodule"
+			],
+			[
+				"setup",
+				"setuptools\tmodule"
+			],
+			[
+				"path",
+				"Path\tclass"
+			],
+			[
+				"set_",
+				"set_icon\tfunction"
+			],
+			[
+				"dra",
+				"draw_line"
+			],
+			[
+				"draw",
+				"draw_line\tfunction"
+			],
+			[
+				"line",
+				"line_nr\tstatement"
+			],
+			[
+				"clef",
+				"clef_rect\tparam"
+			],
+			[
+				"alt",
+				"alt_rect\tstatement"
+			],
+			[
+				"boto",
+				"bottomleft\tstatement"
+			],
+			[
+				"bot",
+				"bottom\tstatement"
+			],
+			[
+				"get_",
+				"get_note\tfunction"
+			],
+			[
+				"to",
+				"_topline_note\tstatement"
+			],
+			[
+				"set",
+				"set_window_resolution\tfunction"
+			],
+			[
+				"re",
+				"rect\tstatement"
+			],
+			[
+				"cl",
+				"clef\tstatement"
+			],
+			[
+				"midi",
+				"midi_prefs\tmodule"
+			],
+			[
+				"Ma",
+				"ui_manager\tmodule"
+			],
+			[
+				"bo",
+				"bottom\tstatement"
+			],
+			[
+				"mi",
+				"midi_prefs\tmodule"
+			],
+			[
+				"lo",
+				"load_svg\tfunction"
+			],
+			[
+				"no",
+				"None\tkeyword"
+			],
+			[
+				"li",
+				"options_list\tstatement"
+			],
+			[
+				"top",
+				"topleft\tstatement"
+			],
+			[
+				"pyg",
+				"pygame\tmodule"
+			],
+			[
+				"MIDI",
+				"MidiPrefsWidget"
+			],
+			[
+				"api",
+				"_api\tstatement"
+			],
+			[
+				"obj",
+				"object_id=\tparam"
+			],
+			[
+				"pyga",
+				"pygame_gui\tmodule"
+			],
+			[
+				"w",
+				"get_width\tfunction"
+			],
+			[
+				"my",
+				"my_big_note\tmodule"
+			],
+			[
+				"Midi",
+				"MidiInput\tclass"
+			],
+			[
+				"ja",
+				"jack_api\tstatement"
+			],
+			[
+				"Mi",
+				"MidiInput\tclass"
+			],
+			[
+				"use",
+				"use_port\tfunction"
+			],
+			[
+				"abs",
+				"abstractmethod\tfunction"
+			],
+			[
+				"ABC",
+				"ABC\tclass"
+			],
+			[
+				"call",
+				"callback_data\tparam"
+			],
+			[
+				"_api",
+				"_apis"
+			],
+			[
+				"By",
+				"BytesIO"
+			],
+			[
+				"sta",
+				"staff_line\tfunction"
+			],
+			[
+				"tr",
+				"treble_clef\tfunction"
+			],
+			[
+				"sgm",
+				"sgm_y\tstatement"
+			],
+			[
+				"svg",
+				"svg_path\tstatement"
+			],
+			[
+				"par",
+				"parse_path\tfunction"
+			],
+			[
+				"dr",
+				"draw_staff\tfunction"
+			],
+			[
+				"create",
+				"create_line\tfunction"
+			],
+			[
+				"can",
+				"can_be_paid\tstatement"
+			],
+			[
+				"sample_",
+				"sample_editor\tmodule"
+			],
+			[
+				"Art",
+				"ArtsHandler\tclass"
+			],
+			[
+				"art",
+				"arts_handler\tmodule"
+			],
+			[
+				"Loo",
+				"LoopSlicer\tclass"
+			],
+			[
+				"hop",
+				"hop_length=\tparam"
+			],
+			[
+				"frame",
+				"frame_length\tstatement"
+			],
+			[
+				"logica",
+				"logical_not\tinstance"
+			],
+			[
+				"clean",
+				"clean_weighted\tstatement"
+			],
+			[
+				"gre",
+				"greater_equal\tinstance"
+			],
+			[
+				"med",
+				"median\tfunction"
+			],
+			[
+				"fram",
+				"frame_length\tstatement"
+			],
+			[
+				"mode",
+				"mode_equivalents\tstatement"
+			],
+			[
+				"onse",
+				"onset_wait"
+			],
+			[
+				"sample",
+				"sample_end\tstatement"
+			],
+			[
+				"meta",
+				"metadata_key_rr\tfunction"
+			],
+			[
+				"key",
+				"metadata_key\tfunction"
+			],
+			[
+				"Pic",
+				"PitchError\tclass"
+			],
+			[
+				"enum",
+				"enum_index\tstatement"
+			],
+			[
+				"regio",
+				"regions_w_metadata\tstatement"
+			],
+			[
+				"era",
+				"erase_metadata\tfunction"
+			],
+			[
+				"reg",
+				"regions_w_mdata\tstatement"
+			],
+			[
+				"ih",
+				"items_handler=\tparam"
+			],
+			[
+				"value",
+				"values\tparam"
+			],
+			[
+				"fade_",
+				"fade_out\tstatement"
+			],
+			[
+				"wildcar",
+				"wildcards_i\tstatement"
+			],
+			[
+				"Wild",
+				"Wildcard\tclass"
+			],
+			[
+				"proce",
+				"process_wildcards\tfunction"
+			],
+			[
+				"spl",
+				"split_by_items_gaps\tfunction"
+			],
+			[
+				"rgn",
+				"rgn_w_mdata\tstatement"
+			],
+			[
+				"rgns",
+				"regions_w_mdata\tstatement"
+			],
+			[
+				"Regio",
+				"RegionContents\tclass"
+			],
+			[
+				"fade",
+				"fade_all\tfunction"
+			],
+			[
+				"Value",
+				"ValuesFilledType\tclass"
+			],
+			[
+				"F",
+				"FadeRegions\tclass"
+			],
+			[
+				"dire",
+				"direction_text"
+			],
+			[
+				"dir",
+				"direction_text"
+			],
+			[
+				"for",
+				"for_selection\tstatement"
+			],
+			[
+				"item_",
+				"item_for_selection\tfunction"
+			],
+			[
+				"region",
+				"region_bounds"
+			],
+			[
+				"regi",
+				"region_bounds\tparam"
+			],
+			[
+				"all",
+				"all_items\tstatement"
+			],
+			[
+				"sele",
+				"select_all_items\tfunction"
+			],
+			[
+				"def",
+				"defaults=\tparam"
+			],
+			[
+				"Filed",
+				"ValuesFilledType"
+			],
+			[
+				"Items",
+				"ItemsHandler\tclass"
+			],
+			[
+				"bound",
+				"bounds\tstatement"
+			],
+			[
+				"sam",
+				"sample\tstatement"
+			],
+			[
+				"want",
+				"want_trend\tparam"
+			],
+			[
+				"has",
+				"has_one\tstatement"
+			],
+			[
+				"SHA",
+				"FADE_SHAPES"
+			],
+			[
+				"pos",
+				"position\tfunction"
+			],
+			[
+				"get_fi",
+				"get_first_rms_value_ms\tfunction"
+			],
+			[
+				"min",
+				"min_duration=\tparam"
+			],
+			[
+				"mid",
+				"min_duration\tparam"
+			],
+			[
+				"post",
+				"post_marker\tstatement"
+			],
+			[
+				"val",
+				"val_normalized\tstatement"
+			],
+			[
+				"leng",
+				"length_convert\tfunction"
+			],
+			[
+				"Item",
+				"ItemsError\tclass"
+			],
+			[
+				"next",
+				"next_onset\tstatement"
+			],
+			[
+				"len",
+				"length_convert\tfunction"
+			],
+			[
+				"unit",
+				"units_target"
+			],
+			[
+				"units",
+				"units_def"
+			],
+			[
+				"uni",
+				"units_def\tparam"
+			],
+			[
+				"sampl",
+				"samples_to_time\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "reaper_playback/gui.py",
+			"settings":
+			{
+				"buffer_size": 3774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ReaperPlayback.sublime-project",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/levitanus/gits/polyphony_site/polyphony_site.sublime-project",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jed",
+				"SublimeJedi: Show Signature"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/levitanus/gits/ReaperPlayback",
+		"/home/levitanus/gits/ReaperPlayback/reaper_playback"
+	],
+	"file_history":
+	[
+		"/home/levitanus/gits/music and IT conference/Доклад для консерватории.md",
+		"/home/levitanus/gits/MyBigNote/setup.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/staff.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/__main__.py",
+		"/home/levitanus/gits/MyBigNote/README.md",
+		"/home/levitanus/gits/MyBigNote/my_big_note.spec",
+		"/home/levitanus/gits/MyBigNote/.travis.yml",
+		"/home/levitanus/gits/music and IT conference/Доклад для Музыки-Интеграл.md",
+		"/home/levitanus/gits/MyBigNote/pyproject.toml",
+		"/home/levitanus/gits/MyBigNote/.spec",
+		"/home/levitanus/gits/MyBigNote/.gitignore",
+		"/home/levitanus/gits/sample_editor/setup.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/__main__.py",
+		"/home/levitanus/gits/MyBigNote/setup.cfg",
+		"/home/levitanus/gits/MyBigNote/requirements.txt",
+		"/home/levitanus/gits/MyBigNote/my_big_note/midi_prefs.py",
+		"/home/levitanus/gits/MyBigNote/reqirements.txt",
+		"/home/levitanus/gits/MyBigNote/my_big_note/midi_in.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/main_gui.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/gui_tools.py",
+		"/home/levitanus/gits/MyBigNote/test.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/__init__.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/pygame_gui/elements/__init__.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/pygame_gui/elements/ui_drop_down_menu.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/rtmidi/__init__.py",
+		"/home/levitanus/gits/MyBigNote/my_big_note/images/treble clef.svg",
+		"/home/levitanus/.local/lib/python3.8/site-packages/svg/__init__.py",
+		"/home/levitanus/Документы/treble clef.svg",
+		"/home/levitanus/.local/lib/python3.8/site-packages/svg/path/__init__.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/svg/path/path.py",
+		"/home/levitanus/gits/MyBigNote/.ropeproject/config.py",
+		"/home/levitanus/gits/music and IT conference/README.md",
+		"/home/levitanus/gits/music and IT conference/Доклад для Музыки-Интеграл.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/about_us.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/index.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/base.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/app.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/static/css/style.css",
+		"/home/levitanus/gits/polifonia-nsk/setup.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/public/models.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/public/views.py",
+		"/home/levitanus/gits/polifonia-nsk/polyphony.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/config.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/normalizer.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/main_gui.py",
+		"/home/levitanus/gits/sample_editor/test.py",
+		"/home/levitanus/gits/sample_editor/test_arts.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/loudness.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/item_handler.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/pitch_tracker.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/arts_handler.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/loop_slicer.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/abstract.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/__init__.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/widgets.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/tools.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/widgets.py",
+		"/home/levitanus/gits/sample_editor/test2.py",
+		"/home/levitanus/gits/sample_editor/test3.py",
+		"/home/levitanus/gits/sample_editor/sample_maps.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/__init__>py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts.rpp",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts look.RPP",
+		"/home/levitanus/gits/reapy/reapy/core/project/project.py",
+		"/home/levitanus/Загрузки/temp/🔸 Вода и еда.",
+		"/home/levitanus/gits/sample_editor/test_arts_bck.py",
+		"/home/levitanus/gits/reapy/reapy/core/reapy_object.pyi",
+		"/home/levitanus/gits/sample_editor/sample_editor/render_tools.py",
+		"/home/levitanus/gits/reapy/reapy/core/item/item.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts.RPP",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shortsrpp.RPP",
+		"/home/levitanus/.local/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py",
+		"/home/levitanus/Документы/2021.01.18 обращение Бондаренко.txt",
+		"/home/levitanus/gits/reapy/reapy/core/project/region.py",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/rlsLegFilter.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/StartOffset.js",
+		"/home/levitanus/gits/sample_editor/.ropeproject/config.py",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/event_filter.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/sulHandler.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Binaries/Builds/LinuxMakefile/Makefile",
+		"/home/levitanus/gits/sample_editor/out.xml",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/SampleMaps/cb Trem sulTop sus.xml",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/SampleMaps/cb Trem sulTop sus_edit.xml",
+		"/home/levitanus/.config/sublime-text-3/Packages/User/HISEScript.sublime-settings",
+		"/home/levitanus/.config/sublime-text-3/Packages/HISEScript/HISEScript.sublime-settings",
+		"/home/levitanus/gits/reapy/reapy/__init__.py",
+		"/home/levitanus/gits/reapy/reapy/core/__init__.py",
+		"/home/levitanus/gits/reapy/reapy/core/project/__init__.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test2.py",
+		"/home/levitanus/gits/sample_editor/README.md",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/__main__.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/setup.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/librosa/core/convert.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/extracttest.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/patchedasttest.py",
+		"/opt/REAPER/Plugins/reaper_python.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut trem.rpp",
+		"/home/levitanus/gits/sample_editor/sample_editor/persistence.py",
+		"/home/levitanus/gits/rope/rope/refactor/patchedast.py",
+		"/home/levitanus/gits/test.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/renametest.py",
+		"/home/levitanus/gits/rope/rope/refactor/similarfinder.py",
+		"/home/levitanus/gits/rope/rope/refactor/extract.py",
+		"/home/levitanus/gits/sample_editor/stat_arts.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/gui.py",
+		"/home/levitanus/gits/LinVst/Makefile-64-32bit",
+		"/home/levitanus/gits/LinVst/Makefile",
+		"/home/levitanus/gits/sample_editor/sample_editor/loop_finder.py",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/IndiPop sublime/main.ksp",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/guitar.ksp",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/IndiPop sublime/definition.ksp",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/__main__.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/loop_finder.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test.py",
+		"/home/levitanus/gits/pitch-detection-librosa-python-master/script_final.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/item_handler.py",
+		"/home/levitanus/.config/sublime-text-3/Packages/AutoDocstring/Default (Linux).sublime-keymap",
+		"/home/levitanus/gits/sample_editor/sample_editor/audio.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test_reastream.py",
+		"/home/levitanus/.config/REAPER/Scripts/left_click.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/unix.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/__init__.py",
+		"/home/levitanus/.wine/drive_c/users/levitanus/Local Settings/Application Data/Programs/Python/Python38/Lib/site-packages/win32/win32api.pyd",
+		"/home/levitanus/gits/numpy-stubs/numpy-stubs/__init__.pyi",
+		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/__init__.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/tools/__init__.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"D:\\gits\\reapy\\reapy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"play_btn",
+			"stop_btn",
+			"play_btn",
+			"upd_btn",
+			"upd",
+			"root",
+			"on_click",
+			"list",
+			"-ci.com",
+			"https://https",
+			"travis-ci.com",
+			"sharp",
+			"'b'",
+			"'#'",
+			"#",
+			"db",
+			"♭",
+			"♯",
+			" #",
+			"7 #\n",
+			" #",
+			"pygame",
+			"7 #\n",
+			" #",
+			"1 #\n",
+			" #",
+			"pytz",
+			"#\n",
+			" #",
+			"ee55cf956ca97390cdc880b7d796243cf8cfd1bf#egg",
+			"#",
+			"_selected_clef",
+			"selected_clef",
+			"print",
+			"line_nr",
+			"pygame.Rect",
+			"png",
+			"-2",
+			"♭'),",
+			"♭ ",
+			"b",
+			"'#'",
+			"#",
+			"'#'",
+			"self.clef",
+			"manager",
+			"50",
+			"draw",
+			"App",
+			"msg",
+			"ty.Any",
+			"int=0",
+			"(",
+			"dpi",
+			"flip",
+			"update",
+			"VIDEORESIZE",
+			"* 1",
+			"treble",
+			"_treble_clef",
+			"py",
+			"100",
+			" * fac",
+			"extend",
+			"append",
+			"start",
+			"rigth",
+			" ",
+			"15",
+			"*1",
+			"Tkinter",
+			"index",
+			"(1",
+			"s>",
+			"str",
+			"0б",
+			"б",
+			"clean_rms",
+			"bounds of",
+			"metadata_key",
+			"print",
+			"Shorts",
+			"SHORTS",
+			"int",
+			"frame_length",
+			"overload",
+			"def",
+			"Iterable",
+			"8000",
+			"rgn_w_mdata",
+			"regions",
+			"NamedSlider",
+			"rls_regs",
+			"direction_text",
+			"get_all_regions",
+			"ty.Optional[RegionContents]",
+			"int",
+			"sample_Start",
+			"deleted",
+			"rel_fade_out_time",
+			"rel_fade_out_sh",
+			"pos",
+			"post_marker",
+			"units_def",
+			"start_offset",
+			"frame_length",
+			"start_offset",
+			"st_ofst_spl",
+			"so",
+			"start_offset",
+			"ty.Dict[str, ty.Union[str, float, bool]]",
+			"self",
+			"Shorts_silence_treshold",
+			"COLOR",
+			"color",
+			"Color",
+			"tab",
+			"pre_onset",
+			"post_silence",
+			"pre_silence",
+			"articulation",
+			"art_name",
+			"rpr.Region, ty.Dict[str, object]",
+			"ty.Tuple[rpr.Region, ty.Dict[str, object]]",
+			"ValuesType",
+			"ValuesTy",
+			"None",
+			"post_max"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ValuesFilledType"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "reaper_playback/gui.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2413,
+								2413
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric, meta.interpolated.format.fstring"
+								}
+							],
+							"complete_all_parameters": false,
+							"complete_parameters": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1267.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ReaperPlayback.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/levitanus/gits/polyphony_site/polyphony_site.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 129.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 206.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "ReaperPlayback.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 516.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/gits/sample_editor/sample_editor.sublime-project"
+			]
+		],
+		"width": 392.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
