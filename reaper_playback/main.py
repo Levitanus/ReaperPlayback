@@ -128,7 +128,7 @@ def update(_list, conn_text: TextInput, instance) -> None:
 
         for item in items_list:
             item_ = item.item
-            pr.add_marker(item_.position + item_.length, name='!1016')
+            pr.add_marker(item_.position + item_.length - .1, name='!1016')
 
         print(items_list)
         update_list(_list, items_list)
@@ -157,15 +157,19 @@ if __name__ == '__main__':
     Config.setdefault(SECTION, 'IP', "192.168.0.1")
     grid = GridLayout(cols=1, spacing=20)
 
+    conn_text = TextInput(text=Config.get(SECTION, 'IP'))
+    try:
+        conn = rpr.connect(conn_text.text)
+        with rpr.inside_reaper():
+            print(f'connected to {conn_text.text}')
+    except (rpr.errors.DisabledDistAPIError, AttributeError):
+        print('cannot connect to "{}"'.format(conn_text.text))
     itemlist = get_items_list()
     print(*(item.name for item in itemlist), sep=' | ')
     scroll, layout = get_layouts()
     update_list(layout, itemlist)
 
     connection_grid = GridLayout(cols=2, spacing=10, size_hint_y=.5)
-    conn_text = TextInput(text=Config.get(SECTION, 'IP'))
-    ping("8.8.8.8")
-    ping(conn_text.text)
     upd_btn = Button(text='update')
     upd_btn.bind(on_press=lambda instance: update(layout, conn_text, instance))
     connection_grid.add_widget(conn_text)
