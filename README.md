@@ -1,11 +1,11 @@
 # ReaperPlayback
 
-Simple Kivy Android App for making playlist from the items on the first track in REAPER.
+Simple [Kivy](https://kivy.org) Android App for making playlist from the items on the first track in REAPER.
 
 ## installation
 
 - install apk from the releases section
-- install python3 to you host PC
+- install python3 to your host PC
 - install [reapy](https://github.com/RomeoDespres/reapy)
 
 ## usage
