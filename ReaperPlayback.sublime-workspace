@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"wind",
+				"Window\tinstance"
+			],
+			[
+				"is",
+				"is_connected\tfunction"
+			],
+			[
+				"conn",
+				"conn_text\tparam"
+			],
+			[
 				"pause_b",
 				"pause_btn\tstatement"
 			],
@@ -502,46 +514,26 @@
 			[
 				"unit",
 				"units_target"
-			],
-			[
-				"units",
-				"units_def"
-			],
-			[
-				"uni",
-				"units_def\tparam"
-			],
-			[
-				"sampl",
-				"samples_to_time\tfunction"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "reaper_playback/gui.py",
+			"file": "reaper_playback/main.py",
 			"settings":
 			{
-				"buffer_size": 3774,
+				"buffer_size": 5223,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "ReaperPlayback.sublime-project",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 317,
+				"buffer_size": 460,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/levitanus/gits/polyphony_site/polyphony_site.sublime-project",
-			"settings":
-			{
-				"buffer_size": 924,
 				"line_ending": "Unix"
 			}
 		}
@@ -573,6 +565,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"prewi",
+				"Markdown Preview: Preview in Browser"
+			],
 			[
 				"mar",
 				"Markdown Preview: Preview in Browser"
@@ -640,6 +636,16 @@
 	],
 	"file_history":
 	[
+		"/home/levitanus/gits/ReaperPlayback/.gitignore",
+		"/home/levitanus/gits/ReaperPlayback/reaper_playback/test.py",
+		"/home/levitanus/gits/ReaperPlayback/buildozer.spec",
+		"/media/levitanus/Samples2/sambasamples/ReaperPlayback/reaper_playback/pythonping1/pythonping/network.py",
+		"/home/levitanus/gits/polyphony_site/polyphony_site.sublime-project",
+		"/home/levitanus/gits/ReaperPlayback/ReaperPlayback.sublime-project",
+		"/home/levitanus/gits/ReaperPlayback/reaper_playback/reapy/config/resource_path.py",
+		"/home/levitanus/gits/ReaperPlayback/reaper_playback/reapy/tools/json.py",
+		"/home/levitanus/gits/reapy/reapy/tools/json.py",
+		"/home/levitanus/gits/ReaperPlayback/reaper_playback/reapy/config/config.py",
 		"/home/levitanus/gits/music and IT conference/Доклад для консерватории.md",
 		"/home/levitanus/gits/MyBigNote/setup.py",
 		"/home/levitanus/gits/MyBigNote/my_big_note/staff.py",
@@ -757,21 +763,11 @@
 		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/loop_finder.py",
 		"/home/levitanus/gits/sample_editor/sample_editor/test.py",
 		"/home/levitanus/gits/pitch-detection-librosa-python-master/script_final.py",
-		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/item_handler.py",
-		"/home/levitanus/.config/sublime-text-3/Packages/AutoDocstring/Default (Linux).sublime-keymap",
-		"/home/levitanus/gits/sample_editor/sample_editor/audio.py",
-		"/home/levitanus/gits/sample_editor/sample_editor/test_reastream.py",
-		"/home/levitanus/.config/REAPER/Scripts/left_click.py",
-		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/unix.py",
-		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/__init__.py",
-		"/home/levitanus/.wine/drive_c/users/levitanus/Local Settings/Application Data/Programs/Python/Python38/Lib/site-packages/win32/win32api.pyd",
-		"/home/levitanus/gits/numpy-stubs/numpy-stubs/__init__.pyi",
-		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/__init__.py",
-		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/tools/__init__.py"
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/item_handler.py"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -786,6 +782,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"host",
+			"ping",
+			"one",
 			"play_btn",
 			"stop_btn",
 			"play_btn",
@@ -910,10 +909,7 @@
 			"art_name",
 			"rpr.Region, ty.Dict[str, object]",
 			"ty.Tuple[rpr.Region, ty.Dict[str, object]]",
-			"ValuesType",
-			"ValuesTy",
-			"None",
-			"post_max"
+			"ValuesType"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -932,24 +928,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "reaper_playback/gui.py",
+					"file": "reaper_playback/main.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3774,
+						"buffer_size": 5223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2413,
-								2413
+								2105,
+								2105
 							]
 						],
 						"settings":
@@ -969,67 +965,41 @@
 							"complete_parameters": false,
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
-						"translation.y": 1267.0,
+						"translation.x": 6.0,
+						"translation.y": 1127.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "ReaperPlayback.sublime-project",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 317,
+						"buffer_size": 460,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								436,
+								436
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "browser"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/levitanus/gits/polyphony_site/polyphony_site.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 924,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2,
-								2
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

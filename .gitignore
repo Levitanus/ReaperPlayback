@@ -82,4 +82,5 @@ lint/tmp/
 # lint/reports/
 
 *__pycache__*
+.buildozer/
 

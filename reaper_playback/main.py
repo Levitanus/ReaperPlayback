@@ -7,14 +7,15 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.scrollview import ScrollView
 from kivy.core.window import Window
 from kivy.app import runTouchApp
+from kivy.config import Config
 import kivy
 
 import reapy as rpr
 
-__version__ = '0.0.1'
-
 import socket
 REMOTE_SERVER = "8.8.8.8"
+
+SECTION = 'rplayback'
 
 
 def is_connected(hostname: str, port: int = 80):
@@ -102,13 +103,18 @@ def update(_list, conn_text: TextInput, instance) -> None:
     # ping(conn_text.text)
     # is_connected(conn_text.text, 2307)
     try:
-        rpr.connect(conn_text.text)
+        conn = rpr.connect(conn_text.text)
+        with rpr.inside_reaper():
+            print(f'connected to {conn_text.text}')
     except (rpr.errors.DisabledDistAPIError, AttributeError):
         print('cannot connect to "{}"'.format(conn_text.text))
         # conn_text.background_color = (1, 0, 0)
         return
     # else:
     #     conn_text.background_color = (1, 1, 1)
+    Config.set(SECTION, 'IP', conn_text.text)
+    Config.write()
+    print(f'SECTION, "IP" to {conn_text.text}')
 
     with rpr.inside_reaper():
         items_list = get_items_list()
@@ -147,16 +153,17 @@ def ping(hostname: str) -> None:
 if __name__ == '__main__':
     is_connected('8.8.8.8')
     is_connected('ya.ru')
+    Config.adddefaultsection(SECTION)
+    Config.setdefault(SECTION, 'IP', "192.168.0.1")
+    grid = GridLayout(cols=1, spacing=20)
 
     itemlist = get_items_list()
     print(*(item.name for item in itemlist), sep=' | ')
     scroll, layout = get_layouts()
     update_list(layout, itemlist)
-    grid = GridLayout(cols=1, spacing=20)
-    grid.add_widget(scroll)
-    connection_grid = GridLayout(cols=2, spacing=10)
 
-    conn_text = TextInput(text="192.168.1.34")
+    connection_grid = GridLayout(cols=2, spacing=10, size_hint_y=.5)
+    conn_text = TextInput(text=Config.get(SECTION, 'IP'))
     ping("8.8.8.8")
     ping(conn_text.text)
     upd_btn = Button(text='update')
@@ -165,7 +172,9 @@ if __name__ == '__main__':
     connection_grid.add_widget(upd_btn)
     grid.add_widget(connection_grid)
 
-    transport_grid = GridLayout(cols=4, spacing=10)
+    grid.add_widget(scroll)
+
+    transport_grid = GridLayout(cols=4, spacing=10, size_hint_y=.5)
     play_btn = Button(text='play|rec')
     play_btn.background_color = (1, 0, 0)
     play_btn.bind(on_press=lambda instance: rpr.perform_action(1013))
@@ -180,6 +189,7 @@ if __name__ == '__main__':
     end_btn = Button(text='to end')
     end_btn.bind(on_press=lambda instance: to_end())
     transport_grid.add_widget(end_btn)
+
     grid.add_widget(transport_grid)
 
     runTouchApp(grid)
